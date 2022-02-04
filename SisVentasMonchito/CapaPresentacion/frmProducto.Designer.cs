@@ -102,6 +102,7 @@
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Listado";
             this.tabPage1.UseVisualStyleBackColor = true;
+            this.tabPage1.Click += new System.EventHandler(this.tabPage1_Click);
             // 
             // dgvListado
             // 
@@ -243,6 +244,7 @@
             this.cbIdPresentacion.Name = "cbIdPresentacion";
             this.cbIdPresentacion.Size = new System.Drawing.Size(132, 21);
             this.cbIdPresentacion.TabIndex = 20;
+            this.cbIdPresentacion.SelectedIndexChanged += new System.EventHandler(this.cbIdPresentacion_SelectedIndexChanged);
             // 
             // label8
             // 

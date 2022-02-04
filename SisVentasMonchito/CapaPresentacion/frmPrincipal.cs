@@ -228,14 +228,14 @@ namespace CapaPresentacion
 
             else
             {
-                this.mnuAlmacen.Enabled = false;
-                this.mnuCompras.Enabled = false;
-                this.mnuVentas.Enabled = false;
-                this.mnuMantenimiento.Enabled = false;
-                this.mnuConsultas.Enabled = false;
-                this.mnuHerramientas.Enabled = false;
-                this.tsCompras.Enabled = false;
-                this.tsVentas.Enabled = false;
+                this.mnuAlmacen.Enabled = true;
+                this.mnuCompras.Enabled = true;
+                this.mnuVentas.Enabled = true;
+                this.mnuMantenimiento.Enabled = true;
+                this.mnuConsultas.Enabled = true;
+                this.mnuHerramientas.Enabled = true;
+                this.tsCompras.Enabled = true;
+                this.tsVentas.Enabled = true;
             }
 
 
@@ -263,6 +263,16 @@ namespace CapaPresentacion
             Consultas.frmConsultaStockProducto frm = new Consultas.frmConsultaStockProducto();
             frm.MdiParent = this;
             frm.Show();
+        }
+
+        private void menuStrip_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void toolStrip_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
         }
     }
 }

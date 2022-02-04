@@ -122,6 +122,8 @@ namespace CapaPresentacion
             this.dgvListado.Columns[1].Visible = false;
             this.dgvListado.Columns[6].Visible = false;
             this.dgvListado.Columns[8].Visible = false;
+            this.dgvListado.Columns[5].Visible = false;
+
         }
 
 
@@ -174,12 +176,12 @@ namespace CapaPresentacion
             DialogResult Resultado = Dialogo.ShowDialog();
 
             //Si el usuario selecciona una imagen
-            if (Resultado == DialogResult.OK)
+          /*  if (Resultado == DialogResult.OK)
             {
                 //Coloca la imagen al mismo tamaño de pximagen
                 this.pxImagen.SizeMode = PictureBoxSizeMode.StretchImage;
                 this.pxImagen.Image = Image.FromFile(Dialogo.FileName);
-            }
+            }*/
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
@@ -321,11 +323,11 @@ namespace CapaPresentacion
             this.txtNombre.Text = Convert.ToString(dgvListado.CurrentRow.Cells["Nombre"].Value);
             this.txtDescripcion.Text = Convert.ToString(dgvListado.CurrentRow.Cells["Descripcion"].Value);
 
-            //Mostramos la imagen
+            /*Mostramos la imagen
             byte[] imagenBuffer = (byte[])this.dgvListado.CurrentRow.Cells["Imagen"].Value;
             System.IO.MemoryStream ms = new System.IO.MemoryStream(imagenBuffer);
             this.pxImagen.Image = Image.FromStream(ms);
-            this.pxImagen.SizeMode = PictureBoxSizeMode.StretchImage;
+            this.pxImagen.SizeMode = PictureBoxSizeMode.StretchImage;*/
 
 
             this.txtIdCategoria.Text = Convert.ToString(dgvListado.CurrentRow.Cells["IdCategoria"].Value);
@@ -443,6 +445,16 @@ namespace CapaPresentacion
                 e.Handled = true;
                 return;
             }
+        }
+
+        private void tabPage1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cbIdPresentacion_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

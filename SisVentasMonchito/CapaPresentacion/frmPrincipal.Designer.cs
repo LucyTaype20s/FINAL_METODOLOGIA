@@ -180,14 +180,14 @@
             // ventasToolStripMenuItem1
             // 
             this.ventasToolStripMenuItem1.Name = "ventasToolStripMenuItem1";
-            this.ventasToolStripMenuItem1.Size = new System.Drawing.Size(144, 26);
+            this.ventasToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
             this.ventasToolStripMenuItem1.Text = "Ventas";
             this.ventasToolStripMenuItem1.Click += new System.EventHandler(this.ventasToolStripMenuItem1_Click);
             // 
             // clientesToolStripMenuItem
             // 
             this.clientesToolStripMenuItem.Name = "clientesToolStripMenuItem";
-            this.clientesToolStripMenuItem.Size = new System.Drawing.Size(144, 26);
+            this.clientesToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.clientesToolStripMenuItem.Text = "Clientes";
             this.clientesToolStripMenuItem.Click += new System.EventHandler(this.clientesToolStripMenuItem_Click);
             // 
@@ -202,7 +202,7 @@
             // empleadosToolStripMenuItem
             // 
             this.empleadosToolStripMenuItem.Name = "empleadosToolStripMenuItem";
-            this.empleadosToolStripMenuItem.Size = new System.Drawing.Size(166, 26);
+            this.empleadosToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.empleadosToolStripMenuItem.Text = "Empleados";
             this.empleadosToolStripMenuItem.Click += new System.EventHandler(this.empleadosToolStripMenuItem_Click);
             // 
@@ -381,6 +381,7 @@
             this.toolStrip.Size = new System.Drawing.Size(1135, 27);
             this.toolStrip.TabIndex = 1;
             this.toolStrip.Text = "ToolStrip";
+            this.toolStrip.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.toolStrip_ItemClicked);
             // 
             // tsCompras
             // 
@@ -428,7 +429,7 @@
             this.Controls.Add(this.menuStrip);
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmPrincipal";
             this.Text = "Sistema de Ventas - Bodega Monchito";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
@@ -486,8 +487,8 @@
         private System.Windows.Forms.ToolStripMenuItem comprasPorFechaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem stockDeProductosToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem backUpBDToolStripMenuItem;
-        private System.Windows.Forms.ToolStripButton tsCompras;
-        private System.Windows.Forms.ToolStripButton tsVentas;
+       private System.Windows.Forms.ToolStripButton tsCompras;
+       private System.Windows.Forms.ToolStripButton tsVentas;
     }
 }
 

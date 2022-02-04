@@ -277,6 +277,7 @@
     <None Include="Resources\ImgTransparente.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\tsCompras.Image.png" />
     <Content Include="SqlServerTypes\readme.htm" />
     <Content Include="SqlServerTypes\x64\msvcr120.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

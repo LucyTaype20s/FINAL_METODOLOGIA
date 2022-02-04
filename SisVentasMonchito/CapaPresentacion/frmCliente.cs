@@ -255,15 +255,26 @@ namespace CapaPresentacion
                 {
                     if (this.IsNuevo)
                     {
-                        Respuesta = NCliente.Insertar(this.txtNombre.Text.Trim().ToUpper(),
-                                                        this.txtApellidos.Text.Trim().ToUpper(),
-                                                        this.cbSexo.Text,
-                                                        this.dtFechaNacimiento.Value,
-                                                        this.cbTipoDocumento.Text,
-                                                        this.txtNumDocumento.Text,
-                                                        this.txtDireccion.Text,
-                                                        this.txtTelefono.Text,
-                                                        this.txtEmail.Text);
+                        Respuesta = NCliente.Insertar("Nombre Cliente1",
+                                                        "Apellido Cliente 1",
+                                                        "M",
+                                                        DateTime.Parse("02/02/2022"),
+                                                        "DNI",
+                                                        "72933776",
+                                                        "San Juan de la Libertad",
+                                                        "922036446",
+                                                        "Cliente1@gmail.com");
+
+
+                        /* Respuesta = NCliente.Insertar(this.txtNombre.Text.Trim().ToUpper(),
+                                                         this.txtApellidos.Text.Trim().ToUpper(),
+                                                         this.cbSexo.Text,
+                                                         this.dtFechaNacimiento.Value,
+                                                         this.cbTipoDocumento.Text,
+                                                         this.txtNumDocumento.Text,
+                                                         this.txtDireccion.Text,
+                                                         this.txtTelefono.Text,
+                                                         this.txtEmail.Text);*/
                     }
                     else
                     {
@@ -404,6 +415,11 @@ namespace CapaPresentacion
         }
 
         private void txtNumDocumento_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabPage1_Click(object sender, EventArgs e)
         {
 
         }
