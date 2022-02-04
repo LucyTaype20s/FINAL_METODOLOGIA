@@ -1,0 +1,128 @@
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\SisVentasMonchito\bin\Debug\SisVentasMonchito.exe.config
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\SisVentasMonchito\bin\Debug\SisVentasMonchito.exe
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\SisVentasMonchito\bin\Debug\SisVentasMonchito.pdb
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaPresentacion.dll
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaNegocio.dll
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaDatos.dll
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaPresentacion.pdb
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaNegocio.pdb
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaDatos.pdb
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.csprojAssemblyReference.cache
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.Properties.Resources.resources
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.csproj.GenerateResource.cache
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.csproj.CopyComplete
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.exe
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.pdb
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\SisVentasMonchito.exe.config
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\SisVentasMonchito.exe
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\SisVentasMonchito.pdb
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaPresentacion.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaNegocio.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaDatos.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaPresentacion.pdb
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaPresentacion.dll.config
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaNegocio.pdb
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaDatos.pdb
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.Properties.Resources.resources
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.csproj.GenerateResource.cache
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.exe
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.pdb
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\SisVentasMonchito.exe.config
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\SisVentasMonchito.exe
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\SisVentasMonchito.pdb
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaPresentacion.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaNegocio.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaDatos.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaPresentacion.pdb
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaPresentacion.dll.config
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaNegocio.pdb
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\CapaDatos.pdb
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.csproj.AssemblyReference.cache
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.Properties.Resources.resources
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.csproj.GenerateResource.cache
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.csproj.CoreCompileInputs.cache
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.csproj.CopyComplete
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.exe
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.pdb
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.csproj.AssemblyReference.cache
+C:\Users\Angel\Dropbox\SisVentasMonchito\SisVentasMonchito\obj\Debug\SisVentasMonchito.csproj.CopyComplete

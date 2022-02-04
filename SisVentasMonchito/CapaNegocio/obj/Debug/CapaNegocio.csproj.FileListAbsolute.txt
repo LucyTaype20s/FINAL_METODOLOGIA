@@ -1,0 +1,27 @@
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Angel\Dropbox\Clases\CICLO III\Proyecto Integrador II Desarrollo De Aplicaciones De Escritorio\Proyecto\Sistema\SisVentasMonchito\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Angel\Dropbox\SisVentasMonchito\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Angel\Dropbox\SisVentasMonchito\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Angel\Dropbox\SisVentasMonchito\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Dropbox\SisVentasMonchito\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Angel\Dropbox\SisVentasMonchito\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Angel\Dropbox\SisVentasMonchito\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\idat\idat III ciclo\PROYECTO INTEGRADOR\Bodega Monchito\SisVentasMonchito\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Angel\Dropbox\SisVentasMonchito\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
